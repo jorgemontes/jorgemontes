@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 📫 
 <a href="https://t.me/jonorrea">
   <img align="left" alt="Jorge Montes Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
