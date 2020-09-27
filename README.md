@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgemontes)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jorgemontes.visitor-badge)
-![trophy](https://github-profile-trophy.vercel.app/?username=jorgemontes)]
+![trophy](https://github-profile-trophy.vercel.app/?username=jorgemontes)
 
 📫 
 <a href="https://t.me/jonorrea">
