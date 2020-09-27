@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgemontes)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jorgemontes.visitor-badge)
+![trophy](https://github-profile-trophy.vercel.app/?username=jorgemontes)]
+
 📫 
 <a href="https://t.me/jonorrea">
   <img align="left" alt="Jorge Montes Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
