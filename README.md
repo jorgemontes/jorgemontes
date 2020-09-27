@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgemontes)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jorgemontes.visitor-badge)
 📫 
 <a href="https://t.me/jonorrea">
