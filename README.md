@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning React, Java 11, opening
+- 📫 How to reach me:
 
-📫 How to reach me:
 <a href="https://t.me/jonorrea">
   <img align="left" alt="Jorge Montes Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
