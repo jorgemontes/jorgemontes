@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgemontes)
 
 
-- 🌱 I’m currently learning React, Java 11, opening
+- 🌱 I’m currently learning React, Java 11, openness
 - 📫 How to reach me:
 
 <a href="https://t.me/jonorrea">
