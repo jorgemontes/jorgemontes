@@ -6,7 +6,7 @@ My main page is: [https://jorgemontes.github.io/](https://jorgemontes.github.io/
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgemontes)
 
 
-- 🌱 I’m currently learning React, Java 11, openness
+- 🌱 I’m currently learning Kubernetes, Java 11, openness
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jorgemontes.visitor-badge)
 <!--
